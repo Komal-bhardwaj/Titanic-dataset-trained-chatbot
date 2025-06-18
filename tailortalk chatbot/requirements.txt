@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+openai
+pandas
+matplotlib
+seaborn
+streamlit
+requests
